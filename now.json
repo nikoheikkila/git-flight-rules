@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "alias": "git.nikoheikkila.fi",
+    "builds": [
+        {
+            "src": "index.pdf",
+            "use": "@now/static"
+        }
+    ]
+}
